@@ -19,6 +19,7 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
+  padding-left: 5px;
 }
 
 #symbol-bottom {
@@ -27,6 +28,7 @@ body {
   align-items: flex-end;
   justify-content: flex-end;
   transform: rotateX(180deg);
+  padding-right: 5px;
 }
 
 #card-number {
